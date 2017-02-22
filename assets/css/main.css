@@ -609,6 +609,7 @@
 			-ms-pointer-events: none;
 			pointer-events: none;
 			background-image: url("../../images/background.jpg");
+			background-size: cover;
 			background-color: rgba(19, 21, 25, 0.5);
 			border-radius: 4px;
 			content: '';
