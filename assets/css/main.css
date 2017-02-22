@@ -1076,7 +1076,7 @@
 			-ms-transition-delay: 0.75s;
 			transition-delay: 0.75s;
 			background-image: linear-gradient(to top, rgba(19, 21, 25, 0.5), rgba(19, 21, 25, 0.5)), url("../../images/background.jpg") ;
-			background-size: cover, cover;
+			background-size: auto, cover;
 			background-position: center, center;
 			background-repeat: no-repeat, no-repeat;
 			z-index: 2;
